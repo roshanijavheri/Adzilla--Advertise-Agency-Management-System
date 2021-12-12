@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Advy Agency Management System
+</name>
+</assembly>
+<members>
+<member name="T:Advy_Agency_Management_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Advy_Agency_Management_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Advy_Agency_Management_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.BillDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.CustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.ServicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.StaffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.BillRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.CustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.ServicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.StaffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.BillRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.CustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.ServicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSet.StaffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.BillTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.CustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.ServicesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.StaffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Advy_Agency_Management_System.AdzllaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Advy_Agency_Management_System.AdzllaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Advy_Agency_Management_System.AdzllaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.TableAdapterManager.UpdateAll(Advy_Agency_Management_System.AdzllaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Advy_Agency_Management_System.AdzllaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

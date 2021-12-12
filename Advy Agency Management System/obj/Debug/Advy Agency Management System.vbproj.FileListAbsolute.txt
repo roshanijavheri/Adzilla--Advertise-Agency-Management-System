@@ -1,0 +1,55 @@
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\Advy Agency Management System.exe.config
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\Advy Agency Management System.exe
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\Advy Agency Management System.pdb
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\Advy Agency Management System.xml
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy Agency Management System.vbproj.AssemblyReference.cache
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.Resources.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy Agency Management System.vbproj.GenerateResource.cache
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy Agency Management System.vbproj.CoreCompileInputs.cache
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy Agency Management System.exe
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy Agency Management System.xml
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy Agency Management System.pdb
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\Adzlla.accdb
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.Form1.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.LoginForm.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.SplashScreen.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy Agency Management System.vbproj.CopyComplete
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.FormAdModes.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.FormCustomers.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.FormStaff.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.FormBills.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.FormBillHistory.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\stdole.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.BillRepo.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.FormReports.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.FormCustomerReports.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.ServiceRepo.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.StaffRepo.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.CustByName.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.CustbyAmt.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.BillByBno.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.BillAboveAmt.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.ServicesUnder.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.StaffbySalary.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.StaffDesignationRepo.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.FormAbout.resources
+C:\Users\KEN\Desktop\Advt Management System\Advy Agency Management System\obj\Debug\Advy_Agency_Management_System.FormAlerts.resources
